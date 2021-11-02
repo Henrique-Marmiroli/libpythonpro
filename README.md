@@ -7,6 +7,8 @@ Suportada versão 3 de Python.
 
 Segue o link do curso [Python Pro](https://www.python.pro.br/)
 
+[![Build Status](https://app.travis-ci.com/Henrique-Marmiroli/libpythonpro.svg?branch=main)](https://app.travis-ci.com/Henrique-Marmiroli/libpythonpro)
+
 Para instalar:
 '''console
 python3 -m venv .venv
