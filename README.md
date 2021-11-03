@@ -7,6 +7,8 @@ Suportada versão 3 de Python.
 
 Segue o link do curso [Python Pro](https://www.python.pro.br/)
 
+[![Updates](https://pyup.io/repos/github/Henrique-Marmiroli/libpythonpro/shield.svg)](https://pyup.io/repos/github/Henrique-Marmiroli/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/Henrique-Marmiroli/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/Henrique-Marmiroli/libpythonpro/)
 
 Para instalar:
 '''console
